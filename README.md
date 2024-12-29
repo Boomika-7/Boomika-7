@@ -29,24 +29,7 @@ I'm *Boomika*, a passionate **Software Engineer**, **Data Science and Machine Le
 
 ### ☁️ Cloud & DevOps
 - **Cloud Services:** AWS (Lambda, S3, EC2)
-- **CI/CD:** GitHub Actions, Docker
-
----
-
-## 🌟 Featured Projects
-### 1. **[Toxic Comment Classification](#)**
-- Built an NLP pipeline for classifying toxic comments using techniques like **BoW**, **TF-IDF**, and ensemble learning with models like Logistic Regression and SVC.
-- Applied data re-sampling methods (SMOTE) for handling class imbalance.
-- Deployed on a scalable cloud platform for real-time predictions.
-
-### 2. **[Rank Features of a Smartphone](#)**
-- Designed a Python application to collect and rank user feature requests for smartphones.
-- Implemented data cleaning, feature extraction, and SVM-Linear for ranking features.
-- Achieved high accuracy using **K-Fold Cross-Validation**.
-
-### 3. **[Full-Stack E-commerce App](#)**
-- Developed a complete MERN-based e-commerce platform with user authentication and payment gateway integration.
-- Optimized performance using lazy loading and server-side rendering.
+- **CI/CD:** GitHub Actions, Gitlab
 
 ---
 
