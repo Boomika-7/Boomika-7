@@ -43,7 +43,7 @@ I'm *Boomika*, a passionate **Software Engineer**, **Data Science and Machine Le
 ## 📫 Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/boomika-m-86085a248/
 - **Portfolio:** https://boomika.vercel.app/
-- **Email:** (mailto:boomika08082002@gmail.com)
+- **Email:** boomika08082002@gmail.com
 
 ---
 
