@@ -40,13 +40,6 @@ I'm *Boomika*, a passionate **Software Engineer**, **Data Science and Machine Le
 
 ---
 
-## 📫 Let’s Connect
-- **LinkedIn:** https://www.linkedin.com/in/boomika-m-86085a248/
-- **Portfolio:** https://boomika.vercel.app/
-- **Email:** boomika08082002@gmail.com
-
----
-
 ### 🌟 Fun Fact
 Coding isn’t just a skill; it’s an art of solving problems and building the future. Let’s create something amazing together!
 
